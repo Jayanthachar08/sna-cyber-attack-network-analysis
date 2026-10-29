@@ -1,0 +1,5 @@
+/* Main Style Bundle */
+@import "../../node_modules/@heroui/styles/dist/heroui.min.css";
+@import "./variables.css";
+@import "./dashboard.css";
+@import "./responsive.css";
